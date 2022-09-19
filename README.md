@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dipak Pawar</h1>
+<h1  align="center">Hi 👋, I'm Dipak Pawar</h1>
 <h3 align="center">A passionate Full Stack Web developer from Maharashtra</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsdipaks" alt="itsdipaks" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **itsdipakpawar4206@gmail.com**
 
-- 📄 Know about me Here is my CV [https://drive.google.com/file/d/1MTz7r6B5jMDNIEegsuHlVOmTiEUFdcVF/view?usp=sharing](https://drive.google.com/file/d/1MTz7r6B5jMDNIEegsuHlVOmTiEUFdcVF/view?usp=sharing)
+- 📄 Know about me here is my CV [resume](https://drive.google.com/file/d/1MTz7r6B5jMDNIEegsuHlVOmTiEUFdcVF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
