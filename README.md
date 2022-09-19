@@ -1,6 +1,6 @@
 <h1  align="center">Hi 👋, I'm Dipak Pawar</h1>
 <h3 align="center">A passionate Full Stack Web developer from Maharashtra</h3>
-<p><img align="center" src="./linkdinpost.png" alt="itsdipaks" /></p>
+<p><img align="center" src="./gitprofile.png" alt="itsdipaks" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsdipaks" alt="itsdipaks" /></a> </p>
 
 - 🌱 I’m currently learning **Redux**
