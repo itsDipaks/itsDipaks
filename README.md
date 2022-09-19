@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **itsdipakpawar4206@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MTz7r6B5jMDNIEegsuHlVOmTiEUFdcVF/view?usp=sharing](https://drive.google.com/file/d/1MTz7r6B5jMDNIEegsuHlVOmTiEUFdcVF/view?usp=sharing)
+- 📄 Know about me Here is my CV [https://drive.google.com/file/d/1MTz7r6B5jMDNIEegsuHlVOmTiEUFdcVF/view?usp=sharing](https://drive.google.com/file/d/1MTz7r6B5jMDNIEegsuHlVOmTiEUFdcVF/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+               <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dipak-pawar-550776221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipak-pawar-550776221" height="30" width="40" /></a>
 <a href="https://codesandbox.com/itsdipaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="itsdipaks" height="30" width="40" /></a>
