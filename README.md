@@ -1,7 +1,16 @@
-<h1  align="center">Hi 👋, I'm Dipak Pawar</h1>
+<h1  align="center">Hi 👋</h1><h1  align="center">I'm Dipak Pawar</h1>
+
 
 <p><img align="center" src="./gitprofile.png" alt="itsdipaks" /></p>
+
 <h3 align="center">A passionate Full Stack Web developer from Maharashtra</h3>
+
+
+
+
+<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+
+
 - 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://itsdipaks.github.io/](https://itsdipaks.github.io/)
@@ -11,8 +20,10 @@
 - 📫 How to reach me **itsdipakpawar4206@gmail.com**
 
 - 📄 Know about me here is my CV [resume](https://drive.google.com/file/d/1MTz7r6B5jMDNIEegsuHlVOmTiEUFdcVF/view?usp=sharing)
+
+
 ---
-<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+
 <p align="left">
 <p align="left">
 <a href="https://linkedin.com/in/dipak-pawar-550776221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipak-pawar-550776221" height="30" width="40" /></a>
