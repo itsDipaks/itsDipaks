@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web developer from Maharashtra</h3>
 
 ---
-<p><img height="250" width="1000" align="center" src="./gitprofile.png" alt="itsdipaks" /></p>
+<p><img height="250" width="1000" align="center" src="./PERFECTTT.png" alt="itsdipaks" /></p>
 
 ---
 
