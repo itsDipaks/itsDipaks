@@ -1,12 +1,9 @@
-<h1  align="center">Hi 👋  I'm Dipak Pawar</h1>
+<h1 align="center">Hi 👋 I'm Dipak Pawar</h1>
 
-<h3 align="center">A passionate Full Stack Web developer from Maharashtra</h3>
-
----
 <p><img height="300" width="1000" align="center" src="./PERFECTTT.png" alt="itsdipaks" /></p>
 
 ---
-
+<h3 align="center">A passionate Full Stack Web developer from Maharashtra</h3>
 
 
 - 🌱 I’m currently learning **Redux**
