@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Dipak Pawar</h1>
 
-<p><img height="240" width="1000" align="center" src="./PERFECTTT.png" alt="itsdipaks" /></p>
+<p><img height="340" width="1000" align="center" src="./PERFECTTT.png" alt="itsdipaks" /></p>
 
 ---
 <h3 align="center">A passionate Full Stack Web developer from Maharashtra</h3>
