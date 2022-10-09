@@ -34,9 +34,7 @@
 
 
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=itsDipaks&theme=discord&no-frame=false&no-bg=true&margin-w=6)
 ---
  
 <br/>
@@ -60,5 +58,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/itsdipakpaB"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itsdipakpaB" /></a></p><br><br>
 
-##
 
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
