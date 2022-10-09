@@ -5,7 +5,7 @@
 ---
 <h3 align="center">A passionate Full Stack Web developer from Maharashtra</h3>
 
-
+![](https://komarev.com/ghpvc/?username=itsDipaks)
 - 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://itsdipaks.github.io/](https://itsdipaks.github.io/)
@@ -48,18 +48,15 @@
 <br/>
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=itsDipaks&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsDipaks&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsDipaks&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=itsDipaks&show_icons=true&theme=radical" />
+<img align="right" width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=itsDipaks&theme=radical"/>
+---
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsDipaks&layout=compact&theme=radical" />
  
-## 📊 Github Contribution Graph:
-<p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=itsdipaks&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
-</p>
+# 📊 Github Contribution Graph:
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=itsdipaks&theme=rogue"/>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/itsdipakpaB"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itsdipakpaB" /></a></p><br><br>
 
