@@ -48,15 +48,25 @@
 # 📊 GitHub Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=itsDipaks&show_icons=true&theme=radical" />
 <img align="right" width="47%"  src="https://github-readme-streak-stats.herokuapp.com/?user=itsDipaks&theme=radical"/>
+<p align="center">
+  <img width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsDipaks&layout=compact&theme=radical" />
+</p>
 
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsDipaks&layout=compact&theme=radical" />
  
 # 📊 Github Contribution Graph:
 
  <img src="https://activity-graph.herokuapp.com/graph?username=itsdipaks&theme=rogue"/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/itsdipakpaB"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itsdipakpaB" /></a></p><br><br>
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/itsdipakpaB"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itsdipakpaB" /></a></p><br><br>
 
+
+<p align="center">
+<h1>✍️ Developer Quote </h1>
+</p>
+<p align="center">
+  <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+ 
 
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
