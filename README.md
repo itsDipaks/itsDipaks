@@ -5,7 +5,8 @@
 
 
 ---
-<h3 align="center">A passionate Full Stack Web developer from Maharashtra</h3>
+<h3 align="center">Software professional with expertise in MERN technology. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills. Experienced in working on various projects through remote collaboration.
+</h3>
 
 ![](https://komarev.com/ghpvc/?username=itsDipaks)
 - 🌱 I’m currently learning **Redux**
