@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Dipak Pawar</h1>
 
-<p><img height="240" width="1000" align="center" src="./Back.jpeg" alt="itsdipaks" /></p>
+<p><img height="240" width="1000" align="center" src="https://media.licdn.com/dms/image/D4E16AQGQ8B9FurqlgA/profile-displaybackgroundimage-shrink_350_1400/0/1674636735612?e=1682553600&v=beta&t=TJ-2eq7fccBCjhCt0aINzgejQ6M22eJNLfPLp4hfuGo" alt="itsdipaks" /></p>
 
 
 
