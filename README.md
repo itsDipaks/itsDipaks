@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=itsDipaks)
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://itsdipaks.github.io/](https://itsdipaks.github.io/)
+- 👨‍💻 All of my projects are available at [ Checkout My PortFolio ❤ ](https://itsdipaks.github.io/)
 
 - 💬 Ask me about **React,Mongobd,express,Javascript**
 
@@ -57,15 +57,15 @@
 
 # 📊 GitHub Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=itsDipaks&show_icons=true&theme=radical" />
-<img align="right" width="47%"  src="https://github-readme-streak-stats.herokuapp.com/?user=itsDipaks&theme=radical"/>
-<p align="center" margin-top="20px">
-  <img width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsDipaks&layout=compact&theme=radical" />
+<img align="right" width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsDipaks&layout=compact&theme=radical"/>
+<p align="center">
+  <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsDipaks&theme=radical" />
 </p>
 
  
 # 📊 Github Contribution Graph:
 
- <img src="https://activity-graph.herokuapp.com/graph?username=itsdipaks&theme=rogue"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsDipaks&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/itsdipakpaB"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itsdipakpaB" /></a></p><br><br>
