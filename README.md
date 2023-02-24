@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=itsDipaks)
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://itsdipaks.github.io/](https://itsdipaks.github.io/)
+- 👨‍💻 All of my projects are available at [Checkout My PortFolio !! ](https://itsdipaks.github.io/)
 
 - 💬 Ask me about **React,Mongobd,express,Javascript**
 
