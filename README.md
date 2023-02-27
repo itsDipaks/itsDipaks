@@ -63,8 +63,11 @@
 <p align="center">
   <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsDipaks&theme=radical" />
 </p>
+<p align="center">
+  <img width="70%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsDipaks&theme=github_dark" />
+</p>
 
- 
+
 # 📊 Github Contribution Graph:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsDipaks&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
