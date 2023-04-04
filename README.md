@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋 I'm Dipak Pawar</h1>
 
 <p><img height="240" width="1000" align="center" src="https://media.licdn.com/dms/image/D4E16AQGQ8B9FurqlgA/profile-displaybackgroundimage-shrink_350_1400/0/1674636735612?e=1682553600&v=beta&t=TJ-2eq7fccBCjhCt0aINzgejQ6M22eJNLfPLp4hfuGo" alt="itsdipaks" /></p>
+<h3 align="left">Full-stack Web Developer at Masai School</h3>
+<h4>Software professional with expertise in MERN technology. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills. Experienced in working on various projects through remote collaboration.</h4>
+</br>
 
-
+<img align="right" width="400px"  src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" alt="3d img"/>
 
 ---
 
 
 
-
-<h3 align="center">Software professional with expertise in MERN technology. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills. Experienced in working on various projects through remote collaboration.
-</h3>
-
 ![](https://komarev.com/ghpvc/?username=itsDipaks)
-- 🌱 I’m currently learning **Redux**
-
+- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently Working On Poject  [Employee Managment System - Induvidual ](https://github.com/itsDipaks/EmployeeManagement)
 - 👨‍💻 All of my projects are available at [ Checkout My PortFolio ❤ ](https://itsdipaks.github.io/)
-
+- 🤝 Group Project  [Bitrix24 - Clone](https://github.com/amitchouhan948/possible-temper-2642) 
+- 🤝 Group Project  [FarmEasy - Clone => * Team Lead *](https://github.com/itsDipaks/Farm-Buddy.com) 
 - 💬 Ask me about **React,Mongobd,express,Javascript**
 
 - 📫 How to reach me **📧 itsdipakpawar4206@gmail.com**
