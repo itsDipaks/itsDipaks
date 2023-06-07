@@ -20,23 +20,7 @@
 
 - 📫 How to reach me **📧 itsdipakpawar4206@gmail.com**
 
-
-
 - 📄 Know about me here is my CV [ Resume ✔ ](https://drive.google.com/file/d/1MTz7r6B5jMDNIEegsuHlVOmTiEUFdcVF/view?usp=sharing)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h3 align="center" ><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="center">
