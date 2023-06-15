@@ -51,8 +51,6 @@
 <p align="center">
   <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsDipaks&theme=radical" />
 </p>
-<p align="center">
-  <img width="70%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsDipaks&theme=github_dark" />
-</p>
+
 
 
